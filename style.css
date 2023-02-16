@@ -1,0 +1,154 @@
+
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+img {
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+}
+a{
+   text-decoration: none;
+}
+ul, ol {
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    list-style: none;
+}
+input, button {
+    box-shadow: none;
+    outline: none;
+}
+
+.cmp_name{
+    font-size: 80px;
+    padding: 140px 0px;
+}
+
+.company{
+    color: rgb(240, 82, 25);
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(37, 112, 113);
+    box-shadow: inset 10px 10px rgb(19, 72, 73);
+    background-color: rgb(37, 112, 113) ;
+}
+
+.pg1{
+    font-size: 120px;
+    border-radius: 0% 0% 100% 100%;
+    background-color: rgb(37, 112, 113);
+    text-align: center;
+    opacity: 0.5;
+    position: absolute;
+    top: 10px;
+    padding: 100px 100px;
+    /* margin-top: none; */
+    color: white ;
+}
+
+.img2{
+    width: 100%;
+    height: 1200px;
+}
+
+.our_services{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(37, 112, 113);
+    padding-top: 90px;
+
+}
+
+.ser_name{
+    font-size: 30px;
+    color: rgb(37, 112, 113);
+}
+
+.pg2{
+    font-size: 23px;
+    padding-right: 100px;
+    margin-top: -15px ;
+}
+
+.subcon1{
+    color: rgb(240, 82, 25);
+    font-size: 90px;
+    /* padding: 0px 50px; */
+}
+
+
+.subcon2{
+    padding: 30px 0px; 
+}
+
+.content1{
+    padding: 0px 40px;
+}
+
+.content2{
+    width: 100px;
+}
+
+.subcon3{
+    background-color:rgb(37, 112, 113) ;
+    color: white;
+    padding: 55px 0px;
+}
+
+.subcon4{
+    background-color: rgb(240, 82, 25);
+    color: white;
+    padding: 55px 0px;
+}
+
+.subcon5{
+    background-color: rgb(190, 189, 189);
+    color: black;
+}
+
+.subcon3,.subcon4 h2{
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.subcon5 p{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px 80px;
+}
+
+.subcon3 p{
+    font-size: 25px;
+    padding: 10px 80px;
+    text-align: left;
+}
+.subcon4 p{
+    font-size: 25px;
+    padding: 10px 80px;
+    text-align: left;
+}
+
+.view{
+    padding-right: 500px;
+}
+
+.footer{
+    border: 15px solid  rgb(240, 82, 25);
+    margin-top: 15px;
+}
+
+
+
+
